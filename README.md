@@ -1,6 +1,6 @@
 # GRAPHIC-DESIGN-PORTFOLIO
 This is Dalton Ongera's portfolio of just a few samples.
-
+![esater](https://github.com/user-attachments/assets/f1f3d9[updated port.pdf](https://github.com/user-attachments/files/19830676/updated.port.pdf)
 ![Blue Gradient Graphic Design Agency Instagram Post](https://github.com/user-attachments/assets/13bce1e8-46ff-40d7-a6b7-1eaf9cf2515f)
 ![Green Modern Social Media Agency Marketing Instagram Post](https://github.com/user-attachments/assets/9d841b2e-9a6f-4332-8688-1a549c343d22)
 ![Orange Carousel Cover Social Media Marketing with 3d illustration Instagram Post](https://github.com/user-attachments/assets/207ae613-1739-4b0b-9db0-fc53c8076435)
@@ -14,7 +14,7 @@ This is Dalton Ongera's portfolio of just a few samples.
 ![DENTAL1](https://github.com/user-attachments/assets/10095407-3ad0-46ec-9e36-5efe4c7ec5da)
 ![fashion](https://github.com/user-attachments/assets/8b215f2e-abbc-490b-9286-776d0aa0c46a)
 ![esss](https://github.com/user-attachments/assets/d0f2f055-1085-4120-a45a-16e6760813dc)
-![esater](https://github.com/user-attachments/assets/f1f3d9a5-503d-416d-a8ce-264582f7a8f2)
+a5-503d-416d-a8ce-264582f7a8f2)
 ![ecom](https://github.com/user-attachments/assets/19ac4514-cf33-414f-a56c-57d1e15df571)
 ![Green T](https://github.com/user-attachments/assets/b307cacc-94ed-4498-87fe-fbebbc86d6eb)
 ![giftt](https://github.com/user-attachments/assets/cb6c05cd-5c06-4b1b-9dfc-c37ce23d626e)
