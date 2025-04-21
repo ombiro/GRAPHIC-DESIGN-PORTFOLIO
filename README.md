@@ -1,5 +1,6 @@
 # GRAPHIC-DESIGN-PORTFOLIO
 This is Dalton Ongera's portfolio of just a few samples.
+
 ![updated port.pdf](https://github.com/user-attachments/files/19830676/updated.port.pdf)
 ![esater](https://github.com/user-attachments/assets/f1f3d93883f6-7fbd-4c2f-8396-958bf657edc2)
 ![Blue Gradient Graphic Design Agency Instagram Post](https://github.com/user-attachments/assets/13bce1e8-46ff-40d7-a6b7-1eaf9cf2515f)
@@ -37,3 +38,8 @@ a5-503d-416d-a8ce-264582f7a8f2)
 ![sch](https://github.com/user-attachments/assets/01b0a851-bf9c-4cc5-8eba-9e6e22c29377)
 ![Uploading travel1.png…]()
 ![travel](https://github.com/user-attachments/assets/33475117-1db9-4c8b-b053-7a8082ead00c)
+
+
+
+
+[updated port.pdf](https://github.com/user-attachments/files/19831060/updated.port.pdf)
