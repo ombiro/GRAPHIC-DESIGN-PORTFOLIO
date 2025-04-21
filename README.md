@@ -1,6 +1,6 @@
 # GRAPHIC-DESIGN-PORTFOLIO
 This is Dalton Ongera's portfolio of just a few samples.
-![esater](https://github.com/user-attachments/assets/f1f3d9[updated port.pdf](https://github.com/user-attachments/files/19830676/updated.port.pdf)
+![esater](https://github.com/user-attachments/assets/f1f3d93883f6-7fbd-4c2f-8396-958bf657edc2)[updated port.pdf](https://github.com/user-attachments/files/19830676/updated.port.pdf)
 ![Blue Gradient Graphic Design Agency Instagram Post](https://github.com/user-attachments/assets/13bce1e8-46ff-40d7-a6b7-1eaf9cf2515f)
 ![Green Modern Social Media Agency Marketing Instagram Post](https://github.com/user-attachments/assets/9d841b2e-9a6f-4332-8688-1a549c343d22)
 ![Orange Carousel Cover Social Media Marketing with 3d illustration Instagram Post](https://github.com/user-attachments/assets/207ae613-1739-4b0b-9db0-fc53c8076435)
@@ -30,7 +30,6 @@ a5-503d-416d-a8ce-264582f7a8f2)
 ![relax](https://github.com/user-attachments/assets/a4026f3f-1f04-49f0-b3db-e6c253ff3773)
 ![spa34](https://github.com/user-attachments/assets/c6e28894-958b-45ef-bd7f-16201002ff06)
 ![spa (Flyer)](https://github.com/user-attachments/assets/552fd135-8ff6-48ec-b841-8dd43751d173)
-3883f6-7fbd-4c2f-8396-958bf657edc2)
 ![medd](https://github.com/user-attachments/assets/da3d7287-e6fc-4f2b-bdbc-801f5eb32728)
 ![mbokaa](https://github.com/user-attachments/assets/4b88c99b-6072-4cf2-ab14-f6e99cdf1e7f)
 ![reasstst](https://github.com/user-attachments/assets/4c3f32bd-deb4-4912-a8fa-669bbf009f92)
